@@ -1,0 +1,45 @@
+RewriteEngine On
+
+RewriteRule ^u/([^/]*)$ torrit_view_user.php?uid=$1 [L]
+RewriteRule ^captcha/([^/]*)$ img_gen.php?cid=$1 [L]
+RewriteRule ^auth validate.php [L]
+RewriteRule ^login torrit_login.php [L]
+RewriteRule ^logout logout.php [L]
+RewriteRule ^register torrit_register.php [L]
+RewriteRule ^create_sub torrit_create_sub.php [L]
+RewriteRule ^contact torrit_contact.php [L]
+RewriteRule ^discover torrit_discover_subs.php [L]
+RewriteRule ^search torrit_search.php [L]
+RewriteRule ^mail home.php [L]
+
+RewriteRule ^home/p=([^/]*)$ home.php?p=$1 [L]
+RewriteRule ^home home.php [L]
+
+RewriteRule ^create/frontpage$ torrit_create_post.php?sid=frontpage [L]
+RewriteRule ^([^/]*)/create$ torrit_create_post.php?sid=$1 [L]
+RewriteRule ^([^/]*)/create/([^/]*)$ torrit_create_post.php?sid=$1&a=$2 [L]
+RewriteRule ^frontpage home.php?t=frontpage [L]
+RewriteRule ^post/([^/]*)$ torrit_view_post.php?pid=$1 [L]
+RewriteRule ^post/([^/]*)/edit$ torrit_edit_post.php?pid=$1 [L]
+RewriteRule ^post/([^/]*)/edit/([^/]*)$ torrit_edit_post.php?pid=$1&a=$2 [L]
+RewriteRule ^post/([^/]*)/r=([^/]*)$ torrit_view_post.php?pid=$1&r=$2 [L]
+RewriteRule ^post/([^/]*)/([^/]*)$ torrit_view_post.php?pid=$1&ac=$2 [L]
+RewriteRule ^post/([^/]*)/([^/]*)/([^/]*)$ torrit_view_post.php?pid=$1&cid=$2&comvt=$3 [L]
+
+RewriteRule ^t/([^/]*)$ torrit_view_sub.php?sid=$1 [L]
+RewriteRule ^t/([^/]*)/manage$ torrit_edit_sub.php?sid=$1 [L]
+RewriteRule ^t/([^/]*)/manage/post_queue$ torrit_sub_post_queue.php?sid=$1 [L]
+RewriteRule ^t/([^/]*)/manage/post_queue/([^/]*)/([^/]*)$ torrit_sub_post_queue.php?sid=$1&pid=$2&a=$3 [L]
+RewriteRule ^t/([^/]*)/([^/]*)$ torrit_view_sub.php?sid=$1&a=$2 [L]
+
+
+RewriteRule ^u/([^/]*)$ torrit_view_user.php?uid=$1 [L]
+
+<IfModule mod_mime.c>
+    AddType application/vnd.ms-fontobject    .eot
+    AddType application/x-font-opentype      .otf
+    AddType image/svg+xml                    .svg
+    AddType application/x-font-ttf           .ttf
+    AddType application/font-woff            .woff
+    AddType application/font-woff2           .woff2
+</IfModule>

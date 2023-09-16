@@ -1,0 +1,6 @@
+{
+    "require": {
+        "michelf/php-markdown": "^2.0",
+        "chriskonnertz/bbcode": "^1.1"
+    }
+}

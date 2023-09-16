@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21cfded2-5ff4-450a-9514-a0a152d4a104" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Captcha_Generator" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/torrit_functions.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/local/Cellar/php/8.1.2/bin/php">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/chriskonnertz/bbcode" />
+    </include_path>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2UU0oJ6EfjLkOi2A9ypgQhf1slM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Applications/MAMP/htdocs/tormin&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/bootstrap/css" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21cfded2-5ff4-450a-9514-a0a152d4a104" name="Changes" comment="" />
+      <created>1692979025831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692979025831</updated>
+      <workItem from="1692979026930" duration="23657000" />
+      <workItem from="1693255162879" duration="3732000" />
+      <workItem from="1693275238448" duration="12381000" />
+      <workItem from="1693326215943" duration="1726000" />
+      <workItem from="1693334220189" duration="3518000" />
+      <workItem from="1693407740055" duration="2691000" />
+      <workItem from="1693417430067" duration="3975000" />
+      <workItem from="1693427751618" duration="3399000" />
+      <workItem from="1693443524995" duration="18047000" />
+      <workItem from="1693500306291" duration="3520000" />
+      <workItem from="1693537108424" duration="4853000" />
+      <workItem from="1693578676931" duration="6913000" />
+      <workItem from="1693598486874" duration="507000" />
+      <workItem from="1693921716597" duration="1192000" />
+      <workItem from="1694026357793" duration="1339000" />
+      <workItem from="1694032992750" duration="869000" />
+      <workItem from="1694053537087" duration="830000" />
+      <workItem from="1694087019091" duration="4741000" />
+      <workItem from="1694094232371" duration="6931000" />
+      <workItem from="1694109866869" duration="3412000" />
+      <workItem from="1694172694916" duration="8734000" />
+      <workItem from="1694193050957" duration="2354000" />
+      <workItem from="1694276648100" duration="848000" />
+      <workItem from="1694289571694" duration="1128000" />
+      <workItem from="1694290902570" duration="931000" />
+      <workItem from="1694297776509" duration="1748000" />
+      <workItem from="1694318582659" duration="719000" />
+      <workItem from="1694351789532" duration="2621000" />
+      <workItem from="1694361415366" duration="353000" />
+      <workItem from="1694372498163" duration="492000" />
+      <workItem from="1694374538381" duration="1046000" />
+      <workItem from="1694379983777" duration="254000" />
+      <workItem from="1694381657447" duration="373000" />
+      <workItem from="1694382812859" duration="2400000" />
+      <workItem from="1694442463666" duration="1637000" />
+      <workItem from="1694444661045" duration="1619000" />
+      <workItem from="1694446903344" duration="2069000" />
+      <workItem from="1694450697757" duration="403000" />
+      <workItem from="1694453922064" duration="3771000" />
+      <workItem from="1694457897769" duration="895000" />
+      <workItem from="1694459858402" duration="2587000" />
+      <workItem from="1694463037046" duration="3245000" />
+      <workItem from="1694476094569" duration="5472000" />
+      <workItem from="1694487965347" duration="4487000" />
+      <workItem from="1694517707745" duration="3613000" />
+      <workItem from="1694526397983" duration="1842000" />
+      <workItem from="1694544417656" duration="318000" />
+      <workItem from="1694548154812" duration="1220000" />
+      <workItem from="1694565438532" duration="755000" />
+      <workItem from="1694572702021" duration="7623000" />
+      <workItem from="1694618802666" duration="1159000" />
+      <workItem from="1694620069192" duration="1258000" />
+      <workItem from="1694626765999" duration="1253000" />
+      <workItem from="1694632205785" duration="2357000" />
+      <workItem from="1694649646588" duration="4863000" />
+      <workItem from="1694690561829" duration="1582000" />
+      <workItem from="1694702996059" duration="604000" />
+      <workItem from="1694745747275" duration="612000" />
+      <workItem from="1694778642857" duration="5356000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
